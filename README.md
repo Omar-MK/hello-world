@@ -6,7 +6,7 @@ First repository
 // Hey coders! It is said that debugging is the same as being the crime detector in a crime you commited...
 // Your brain right now:
   
-  while(understand == false) {
-    understand = hmm();  
+  while(!comprehended) {
+    comprehended = decipher(joke);  
   }
   
